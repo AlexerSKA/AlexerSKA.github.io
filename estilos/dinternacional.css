@@ -1,0 +1,37 @@
+.contenedor{
+	width: 90%;
+	padding: 2%;
+	margin: auto;
+	
+}
+
+.Noticias1{
+	display: flex;
+	width: 90%;
+	margin-bottom: 30px;
+}
+
+.Noticias2{
+	display: flex;
+	width: 90%;
+	margin-bottom: 30px;
+}
+
+img{
+width: 300px;
+height: 150px;
+margin-left: 15px;
+margin-right: 15px;
+}
+
+.title{
+	color: #FF5733;
+	text-align: center;
+	margin-bottom: 50px;
+
+}
+
+.logo{
+	width: 100px;
+	height: auto;
+}

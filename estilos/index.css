@@ -1,0 +1,31 @@
+.contenedor{
+	width: 90%;
+	padding: 2%;
+	margin: auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+
+.noticias{
+	width: 90%;
+	margin: auto;
+	height: 100%;
+}
+
+.imagen{
+	width: 250px;
+	height: 150px;
+	margin-bottom: 20px;
+}
+
+.title{
+	grid-column: span 3;
+	text-align: center;
+	color: #FF5733;
+}
+
+.logo{
+	width: 100px;
+	height: auto;
+}

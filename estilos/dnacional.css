@@ -1,0 +1,30 @@
+.contenedor{
+	width: 100%;
+
+	padding: 7% ;
+}
+
+.title{
+	color: #CD6155;
+	font-size: 57px ;
+}
+
+p{
+font-size: 15px;
+}
+
+img{
+	width: 350px;
+	left: auto;
+}
+
+.imagen{
+	width: 85%;
+	margin: auto;
+	align-items: center;
+}
+
+.logo{
+	width: 100px;
+	height: auto;
+}
